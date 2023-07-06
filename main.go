@@ -10,4 +10,6 @@ func main() {
 	print("Third Commit for the Feature Branch after which We will merge into the main branch")
 
 	print("Haha")
+
+	print("Haha 2")
 }
