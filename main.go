@@ -8,4 +8,8 @@ func main() {
 	print("Second Commit for the Feature  Branch")
 
 	print("Third Commit for the Feature Branch after which We will merge into the main branch")
+
+	print("Haha")
+
+	print("Haha 2")
 }
